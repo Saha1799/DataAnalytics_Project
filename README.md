@@ -5,6 +5,7 @@ Welcome to our Data Analytics repository, a holistic hub that hosts a series of 
 Project 1:CoronaAnalysis_Dashboard
 
 1)Data Cleaning: The first step in this project i involved cleaning the dataset by addressing null or missing values. This ensured that our data was accurate and reliable for analysis.
+
 2)Tool Selection: I have Utilized Power BI, a powerful data visualization tool, to transform the raw data into insightful charts and visuals.
 3)Visualization Techniques: Incorporated a variety of charts such as Donut, Stack, and Maps to represent different facets of the data.
 4)Case Analysis: Analyzed and presented key metrics including total cases, active cases, and serious or critical cases.
