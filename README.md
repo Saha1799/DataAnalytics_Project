@@ -9,7 +9,6 @@ Project 1:CoronaAnalysis_Dashboard
 2)Tool Selection: I have Utilized Power BI, a powerful data visualization tool, to transform the raw data into insightful charts and visuals.
 
 3)Visualization Techniques: Incorporated a variety of charts such as Donut, Stack, and Maps to represent different facets of the data.
-
 4)Case Analysis: Analyzed and presented key metrics including total cases, active cases, and serious or critical cases.
 5)Map Visualization: We used geographical mapping to display COVID-19 statistics on a global or regional scale. This map visualization provided users with a clear understanding of how the virus was spreading across different regions.
 6)Comprehensive Analysis: The dashboard provided a comprehensive analysis of the COVID-19 situation, allowing users to drill down into specific regions or time periods to gain deeper insights into the data.
