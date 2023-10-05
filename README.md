@@ -1,6 +1,4 @@
-Introduction:
-
-Welcome to Data Analytics repository, a holistic hub that hosts a series of projects crafted using both Power BI and Python. This space is dedicated to providing comprehensive insights, interactive visualizations, and intricate data analyses across various datasets. 
+Introduction: 
 
 Project 1:CoronaAnalysis_Dashboard
 
