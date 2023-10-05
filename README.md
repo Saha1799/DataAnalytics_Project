@@ -1,6 +1,6 @@
 Introduction:
 
-Welcome to our Data Analytics repository, a holistic hub that hosts a series of projects crafted using both Power BI and Python. This space is dedicated to providing comprehensive insights, interactive visualizations, and intricate data analyses across various datasets. 
+Welcome to Data Analytics repository, a holistic hub that hosts a series of projects crafted using both Power BI and Python. This space is dedicated to providing comprehensive insights, interactive visualizations, and intricate data analyses across various datasets. 
 
 Project 1:CoronaAnalysis_Dashboard
 
@@ -22,18 +22,19 @@ By following these steps and using tools like Power BI, donut charts, stacked ch
 
 Project 2:Covid_Analysis_Python_Project
     
-    1)Platform & Language: Conducted the analysis using Python within the Jupyter Notebook environment, ensuring interactivity and easy code visualization.used 
+ 1)Platform & Language: Conducted the analysis using Python within the Jupyter Notebook environment, ensuring interactivity and easy code visualization.used 
       Numpy,pandas libraries.
     
-    2)Data Cleaning: to provide accurate analyse used pandas Identified and deleted null or missing values, ensuring a clean dataset for accurate data interpretation.
+ 2)Data Cleaning: to provide accurate analyse used pandas Identified and deleted null or missing values, ensuring a clean dataset for accurate data interpretation.
     
-    3)Diverse Visualizations: Utilized line charts, bar charts, and pie charts to effectively represent various COVID metrics and insights.
-      Detailed Analysis: Presented a Tree map representation of COVID cases by country, tracked case evolution over time, and assessed the Total COVID test ratio, among 
+ 3)Diverse Visualizations: Utilized line charts, bar charts, and pie charts to effectively represent various COVID metrics and insights.
+
+ 4)Detailed Analysis: Presented a Tree map representation of COVID cases by country, tracked case evolution over time, and assessed the Total COVID test ratio, among 
       other key data points.
     
-    4)In-depth Country Analysis: Highlighted the Top 20 countries in terms of Total Cases, Total Deaths, and Total Recoveries.
+ 5)In-depth Country Analysis: Highlighted the Top 20 countries in terms of Total Cases, Total Deaths, and Total Recoveries.
     
-    5)Regional Insights: Investigated the 'Total Deaths' with respect to WHO regions and visualized the 'Total Deaths' to 'Confirmed Cases' ratio.
+ 6)Regional Insights: Investigated the 'Total Deaths' with respect to WHO regions and visualized the 'Total Deaths' to 'Confirmed Cases' ratio.
 
 This project provides a comprehensive visualization-driven insight into the global impact of the COVID pandemic using python.
 
