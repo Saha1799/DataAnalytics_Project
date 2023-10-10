@@ -1,6 +1,6 @@
 Introduction: 
 
-Project 1:CoronaAnalysis_Dashboard
+Project 1:Covid19_Analysis_Dashboard
 
  1)Data Cleaning: The first step in this project i involved cleaning the dataset by addressing null or missing values. This ensured that our data was accurate and reliable for analysis.
       
